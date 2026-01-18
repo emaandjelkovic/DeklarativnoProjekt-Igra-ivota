@@ -30,7 +30,7 @@ Poanta igre nije u postizanju konačnog cilja, već u istraživanju kako se sust
 3. Učitavanje datoteke u Emacsu
    - `M-x load-file`
    - pisanje putanje do mjesta gdje se nalazi datoteka
-   - odabir `game.el`
+   - odabir `game_of_life.el`
 4. Pokretanje aplikacije sljedećom naredbom
    - `M-x life`
 
